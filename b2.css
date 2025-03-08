@@ -1,0 +1,14 @@
+table{
+    border:3px solid black;
+    width:500px;
+    height:500px;
+}
+.nhi{
+    color:red;
+    text-align:center;
+}
+.link{
+    color:green;
+    float:right;
+    text-decoration: none;
+}
